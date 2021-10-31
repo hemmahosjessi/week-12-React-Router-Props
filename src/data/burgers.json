@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Las Vegas",
+        "slug": "las Vegas",
+        "image": "beef-egg.jpeg"
+    },
+    {
+        "name": "Chicago",
+        "slug": "chicago",
+        "image": "cheese.jpeg"
+    },
+    {
+        "name": "Texas",
+        "slug": "texas",
+        "image": "chicken-1.jpeg"
+    },
+    {
+        "name": "Tenesee",
+        "slug": "tenesee",
+        "image": "chicken.jpeg"
+    },
+    {
+        "name": "Florida",
+        "slug": "florida",
+        "image": "egg.jpeg"
+    },
+    {
+        "name": "Alaska",
+        "slug": "alaska",
+        "image": "bacon.jpeg"
+    }
+]
+
